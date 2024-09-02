@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @liisikume
-- 🌱 I’m currently learning Python to get my IT career going.
+- 🌱 A fan of learning, a recent graduate of Python from Scratch course, and eager to get more hands-on IT experience.
 
 Have a look at my practice projects:
 - https://github.com/liisikume/animal-encyclopedia 
